@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <version>1.1</version>
+    <message>Now supports RTL and date translation! Plus some minor bug fixes, including a fix for the XML warning message in the admin</message>
+</info>
