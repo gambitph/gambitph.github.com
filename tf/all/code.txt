@@ -1,0 +1,4 @@
+<h3>Check Out Our Other Themes</h3>
+<a href='http://themeforest.net/item/dimension-retina-responsive-multipurpose-theme/5495659?ref=bfintal' target='_blank' style='display: block'><img src='http://gambitph.github.io/tf/all/dimension.png'/></a>
+<a href='http://themeforest.net/item/amplus-responsive-multilingual-wordpress-theme/180353?ref=bfintal' target='_blank' style='display: block'><img src='http://gambitph.github.io/tf/all/amplus.png'/></a>
+<a href='http://themeforest.net/item/mas-multipurpose-multilingual-responsive-theme/3978788?ref=bfintal' target='_blank' style='display: block'><img src='http://gambitph.github.io/tf/all/mas.png'/></a>
