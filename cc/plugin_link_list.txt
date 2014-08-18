@@ -1,0 +1,17 @@
+Our other themes: http://themeforest.net/user/bfintal
+
+<a href='_?ref=bfintal' target='_blank'><img src='http://gambitph.github.io/cc/others_carousel.png' title='Carousel Anything Plugin For Visual Composer'/></a>
+
+<a href='http://codecanyon.net/item/image-video-device-mockups-shortcode/8269855?ref=bfintal' target='_blank'><img src='http://gambitph.github.io/cc/others_mockup.png' title='Image & Video Device Mockups Shortcode'/></a>
+
+<a href='http://codecanyon.net/item/ultimate-image-filters-wordpress-plugin/8074975?ref=bfintal' target='_blank'><img src='http://gambitph.github.io/cc/others_imagefilters.png' title='Ultimate Image Filters WordPress Plugin'/></a>
+
+<a href='http://codecanyon.net/item/loupe-image-magnifying-glass-for-visual-composer/8152322?ref=bfintal' target='_blank'><img src='http://gambitph.github.io/cc/others_loupe.png' title='Loupe Image Magnifying Glass for Visual Composer'/></a>
+
+<a href='http://codecanyon.net/item/isometric-tiles-plugin-for-visual-composer/8040402?ref=bfintal' target='_blank'><img src='http://gambitph.github.io/cc/others_isotiles.png' title='Isometric Image Tiles add-on for Visual Composer'/></a>
+
+<a href='http://codecanyon.net/item/video-parallax-backgrounds-for-visual-composer/7049478?ref=bfintal' target='_blank'><img src='http://gambitph.github.io/cc/others_parallax.png' title='Video & Parallax Backgrounds add-on For Visual Composer' alt='Video & Parallax Backgrounds For Visual Composer'/></a>
+
+<a href='http://codecanyon.net/item/css-animator-for-visual-composer/7458846?ref=bfintal' target='_blank'><img src='http://gambitph.github.io/cc/others_cssanimator.png' title='CSS Animator add-on for Visual Composer' alt='CSS Animator add-on for Visual Composer'/></a>
+
+<a href='http://codecanyon.net/item/4k-icons-shortcode-for-visual-composer/7216757?ref=bfintal' target='_blank'><img src='http://gambitph.github.io/cc/others_4kicons.png' title='4k Icons add-on for Visual Composer' alt='4k Icons add-on for Visual Composer'/></a>
