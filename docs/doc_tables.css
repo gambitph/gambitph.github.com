@@ -12,7 +12,7 @@ table th, table td {
 		inset 0 1px rgba(0,0,0,0.25);
 		padding: 15px;
 }
-#documenter_content table td {
+#documenter_content table th, #documenter_content table td {
 	padding: 15px !important;
 }
 table th {
