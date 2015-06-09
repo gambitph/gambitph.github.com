@@ -1,21 +1,21 @@
 [{
 	"sku": "sku",
 	"name": "Name",
-	"desc": "Description",
+	"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut urna orci, vehicula mattis faucibus eu, pretium eu enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel scelerisque turpis. In et ornare dui. Nulla posuere, metus eu tincidunt rutrum, felis nisi pharetra orci, eget elementum purus eros in risus.",
 	"demo": "http:\/\/demo.com",
 	"buy": "http:\/\/buy.com"
 },
 {
 	"sku": "PRLX",
 	"name": "Name",
-	"desc": "Description",
+	"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut urna orci, vehicula mattis faucibus eu, pretium eu enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel scelerisque turpis. In et ornare dui. Nulla posuere, metus eu tincidunt rutrum, felis nisi pharetra orci, eget elementum purus eros in risus.",
 	"demo": "http:\/\/demo.com",
 	"buy": "http:\/\/buy.com"
 },
 {
 	"sku": "sku",
 	"name": "Name",
-	"desc": "Description ",
+	"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut urna orci, vehicula mattis faucibus eu, pretium eu enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel scelerisque turpis. In et ornare dui. Nulla posuere, metus eu tincidunt rutrum, felis nisi pharetra orci, eget elementum purus eros in risus. ",
 	"demo": "http:\/\/demo.com",
 	"buy": "http:\/\/buy.com"
 }]
