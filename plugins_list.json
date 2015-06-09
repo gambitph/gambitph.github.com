@@ -3,19 +3,22 @@
 	"name": "Name",
 	"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut urna orci, vehicula mattis faucibus eu, pretium eu enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel scelerisque turpis. In et ornare dui. Nulla posuere, metus eu tincidunt rutrum, felis nisi pharetra orci, eget elementum purus eros in risus.",
 	"demo": "http:\/\/demo.com",
-	"buy": "http:\/\/buy.com"
+	"buy": "http:\/\/buy.com",
+	"image": "https:\/\/static.pexels.com\/photos\/6488\/sunglasses-hand-smartphone-desk-medium.jpg"
 },
 {
 	"sku": "PRLX",
 	"name": "Name",
 	"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut urna orci, vehicula mattis faucibus eu, pretium eu enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel scelerisque turpis. In et ornare dui. Nulla posuere, metus eu tincidunt rutrum, felis nisi pharetra orci, eget elementum purus eros in risus.",
 	"demo": "http:\/\/demo.com",
-	"buy": "http:\/\/buy.com"
+	"buy": "http:\/\/buy.com",
+	"image": "https:\/\/static.pexels.com\/photos\/6488\/sunglasses-hand-smartphone-desk-medium.jpg"
 },
 {
 	"sku": "sku",
 	"name": "Name",
 	"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut urna orci, vehicula mattis faucibus eu, pretium eu enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel scelerisque turpis. In et ornare dui. Nulla posuere, metus eu tincidunt rutrum, felis nisi pharetra orci, eget elementum purus eros in risus. ",
 	"demo": "http:\/\/demo.com",
-	"buy": "http:\/\/buy.com"
+	"buy": "http:\/\/buy.com",
+	"image": "https:\/\/static.pexels.com\/photos\/6488\/sunglasses-hand-smartphone-desk-medium.jpg"
 }]
