@@ -6,6 +6,13 @@
 	"buy": "http:\/\/buy.com"
 },
 {
+	"sku": "PRLX",
+	"name": "Name",
+	"desc": "Description",
+	"demo": "http:\/\/demo.com",
+	"buy": "http:\/\/buy.com"
+},
+{
 	"sku": "sku",
 	"name": "Name",
 	"desc": "Description ",
