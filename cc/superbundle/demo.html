@@ -1,0 +1,79 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>VC Super Bundle</title>
+	<meta name="description" content="A collection of unique elements, settings and tools that will supercharge Visual Composer">
+	<meta name="author" content="Gambit Technologies, Inc.">
+	<style>
+		.logo span,.vcsb_card span{font-family:Roboto,sans-serif}@font-face{font-family:Roboto;font-style:normal;font-weight:100;src:local('Roboto Thin'),local('Roboto-Thin'),url(https://fonts.gstatic.com/s/roboto/v16/Jzo62I39jc0gQRrbndN6nfesZW2xOQ-xsNqO47m55DA.ttf) format('truetype')}@font-face{font-family:Roboto;font-style:normal;font-weight:400;src:local('Roboto'),local('Roboto-Regular'),url(https://fonts.gstatic.com/s/roboto/v16/zN7GBFwfMP4uA6AR0HCoLQ.ttf) format('truetype')}body{margin:0;overflow:hidden}.logo{width:100%;text-align:center;padding:20px;cursor:pointer}.logo span{color:#777;font-size:15px}.logo img{width:150px;margin-bottom:20px}.vcsb_card_container{margin:0 auto;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-transition:all .5s ease-in-out;transition:all .5s ease-in-out;top:0;bottom:0;left:0;right:0;position:absolute;overflow-y:auto;padding:30px 5vw}.iframe-container,body.vcsb_sidebar .vcsb_card_container .vcsb_card span.desc,body.vcsb_sidebar .vcsb_card_container:not(.vcsb_sidebar_container){display:none}.vcsb_card{cursor:pointer;margin:8px;border-radius:4px;width:400px;height:200px;-webkit-box-shadow:1px 1px 4px rgba(0,0,0,.2);box-shadow:1px 1px 4px rgba(0,0,0,.2);overflow:hidden;position:relative;background:#000}.vcsb_card span{position:absolute;top:50%;left:0;right:0;margin:0 1em;font-size:40px;text-align:center;font-weight:100;color:#fff;opacity:.9;-webkit-transform:translateY(-50%) scale(.9);transform:translateY(-50%) scale(.9);-webkit-transition:opacity .2s ease-in-out,-webkit-transform .3s cubic-bezier(.42,.97,.52,1.49);transition:opacity .2s ease-in-out,-webkit-transform .3s cubic-bezier(.42,.97,.52,1.49);transition:opacity .2s ease-in-out,transform .3s cubic-bezier(.42,.97,.52,1.49);transition:opacity .2s ease-in-out,transform .3s cubic-bezier(.42,.97,.52,1.49),-webkit-transform .3s cubic-bezier(.42,.97,.52,1.49)}.vcsb_card span.desc{-webkit-transform:translateY(-50%) translateY(30px) scale(.9);transform:translateY(-50%) translateY(30px) scale(.9);font-size:24px;opacity:0}.vcsb_card:hover span{opacity:1;-webkit-transform:translateY(-50%) scale(1);transform:translateY(-50%) scale(1)}.vcsb_card:hover span.desc{-webkit-transform:translateY(-50%) scale(1);transform:translateY(-50%) scale(1);opacity:1}.vcsb_card:hover span.desc:not(:empty)~span{-webkit-transform:translateY(-50%) translateY(-30px) scale(1);transform:translateY(-50%) translateY(-30px) scale(1);opacity:0}.vcsb_card .vcsb_image{background-size:cover;width:100%;height:100%;position:absolute;-webkit-transition:opacity .3s ease-in-out,-webkit-transform 40s cubic-bezier(0,0,.2,1);transition:opacity .3s ease-in-out,-webkit-transform 40s cubic-bezier(0,0,.2,1);transition:transform 40s cubic-bezier(0,0,.2,1),opacity .3s ease-in-out;transition:transform 40s cubic-bezier(0,0,.2,1),opacity .3s ease-in-out,-webkit-transform 40s cubic-bezier(0,0,.2,1);-webkit-transform-origin:center;transform-origin:center;opacity:.4}.vcsb_card:hover .vcsb_image{-webkit-transform:scale(1.2);transform:scale(1.2);opacity:.6}.vcsb_sidebar_container{position:absolute;right:auto;width:340px;bottom:0;background:#fff;padding:30px;-webkit-box-sizing:border-box;box-sizing:border-box;overflow-y:auto;-webkit-transform:translateX(-100%);transform:translateX(-100%);-webkit-box-shadow:0 0 10px rgba(0,0,0,.5);box-shadow:0 0 10px rgba(0,0,0,.5)}.vcsb_sidebar_container .vcsb_card{width:100%;height:60px}.vcsb_sidebar_container .vcsb_card span{font-size:18px;font-weight:700}body.vcsb_sidebar .vcsb_card_container{-webkit-transform:none;transform:none}body.vcsb_sidebar .vcsb_card_container .vcsb_card:hover .vcsb_image{-webkit-transform:scale(1.5);transform:scale(1.5)}body.vcsb_sidebar .vcsb_card_container .vcsb_card:hover span{-webkit-transform:translateY(-50%) scale(1);transform:translateY(-50%) scale(1);opacity:1}body.vcsb_sidebar .vcsb_card_container .logo span{font-size:13px}.iframe-container{position:absolute;top:0;left:340px;right:0;bottom:0}.iframe-container iframe{display:none;border:0;width:100%;height:100%}body.vcsb_sidebar .iframe-container,body.vcsb_sidebar .iframe-container iframe{display:block}@media screen and (max-width:800px){.vcsb_sidebar_container{width:200px;padding:20px 2vw}.vcsb_sidebar_container .vcsb_card{height:70px}.vcsb_sidebar_container .vcsb_card span{font-size:16px;font-weight:400}.iframe-container{left:200px}}
+	</style>
+	<script>
+		!function(){var e=function(){var e,t=document.querySelector(".vcsb_card_container").cloneNode(!0);t.classList.add("vcsb_sidebar_container"),document.body.appendChild(t),e=document.querySelectorAll(".vcsb_card"),Array.prototype.forEach.call(e,function(e){e.addEventListener("click",function(e){var t=this.getAttribute("data-demo");document.body.classList.add("vcsb_sidebar"),document.querySelector("iframe").setAttribute("src",t)})}),e=document.querySelectorAll(".logo"),Array.prototype.forEach.call(e,function(e){e.addEventListener("click",function(e){document.body.classList.remove("vcsb_sidebar")})})};"loading"!==document.readyState?e():document.addEventListener("DOMContentLoaded",e)}();
+	</script>
+</head>
+<body>
+	<div class="vcsb_card_container">
+		<div class="logo">
+			<img src="https://i1.wp.com/pagebuildersandwich.com/wp-content/uploads/2016/08/PBS-Logo2.png?fit=550%2C158&ssl=1" alt="Super Bundle"/>
+			<br>
+			<span>Super Bundle is a collection of unique elements, settings and tools that will supercharge Visual Composer.</span>
+		</div>
+		<div class="vcsb_card" data-demo="http://demos2.gambit.ph/parallax/?nopreview" onclick="">
+	<div class="vcsb_image" style="background-image: url(http://source.unsplash.com/random/600x400?sig=78862)"></div>
+	<span class="desc">Smoother parallax, video, hover, color cycle, gradient backgrounds and more.</span>
+	<span>Background Effects</span>
+</div>
+<div class="vcsb_card" data-demo="http://demos2.gambit.ph/carousel/?nopreview" onclick="">
+	<div class="vcsb_image" style="background-image: url(http://source.unsplash.com/random/600x400?sig=24213)"></div>
+	<span class="desc">Create carousels containing anything</span>
+	<span>Carousel</span>
+</div>
+<div class="vcsb_card" data-demo="http://demos2.gambit.ph/fonts?nopreview" onclick="">
+	<div class="vcsb_image" style="background-image: url(http://source.unsplash.com/random/600x400?sig=61467)"></div>
+	<span class="desc">Use 800+ Google fonts</span>
+	<span>Google Fonts</span>
+</div>
+<div class="vcsb_card" data-demo="http://demos2.gambit.ph/rowseparators/?nopreview" onclick="">
+	<div class="vcsb_image" style="background-image: url(http://source.unsplash.com/random/600x400?sig=95821)"></div>
+	<span class="desc">Separate your content with unique row separators designs</span>
+	<span>Row Separators</span>
+</div>
+<div class="vcsb_card" data-demo="http://demos2.gambit.ph/before-after/?nopreview" onclick="">
+	<div class="vcsb_image" style="background-image: url(http://source.unsplash.com/random/600x400?sig=14378)"></div>
+	<span class="desc">Slide between two images to view before and after photos</span>
+	<span>Before and After</span>
+</div>
+<div class="vcsb_card" data-demo="http://demos2.gambit.ph/css-animator/?nopreview" onclick="">
+	<div class="vcsb_image" style="background-image: url(http://source.unsplash.com/random/600x400?sig=33048)"></div>
+	<span class="desc">A container element that animates whatever you put in it</span>
+	<span>CSS Animator</span>
+</div>
+<div class="vcsb_card" data-demo="http://demos2.gambit.ph/herobox/?nopreview" onclick="">
+	<div class="vcsb_image" style="background-image: url(http://source.unsplash.com/random/600x400?sig=19933)"></div>
+	<span class="desc">An image element with lots of unique hover effects</span>
+	<span>Hero Boxes</span>
+</div>
+<div class="vcsb_card" data-demo="http://demos2.gambit.ph/rowscroll/?nopreview" onclick="">
+	<div class="vcsb_image" style="background-image: url(http://source.unsplash.com/random/600x400?sig=57337)"></div>
+	<span class="desc">Add entrance and exit animations on your containers</span>
+	<span>Row Scroll Animations</span>
+</div>
+<div class="vcsb_card" data-demo="http://demos2.gambit.ph/texteffects/?nopreview" onclick="">
+	<div class="vcsb_image" style="background-image: url(http://source.unsplash.com/random/600x400?sig=41648)"></div>
+	<span class="desc">A cool animating text element, great for headings</span>
+	<span>Text Effects</span>
+</div>
+<div class="vcsb_card" data-demo="http://demos2.gambit.ph/12k-svg-icons/?nopreview" onclick="">
+	<div class="vcsb_image" style="background-image: url(http://source.unsplash.com/random/600x400?sig=6590)"></div>
+	<span class="desc">Add icons & buttons, choose from 12,000+ SVG vector icons</span>
+	<span>SVG Icons</span>
+</div>
+
+	</div>
+	<div class="iframe-container">
+		<iframe></iframe>
+	</div>
+</body>
+</html>
